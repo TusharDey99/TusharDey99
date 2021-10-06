@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushar Dey
 - 🦼 I find amusement in creating, problem solving, brainstorming, movies, shows, anime, manga and books, writting, technical analysis, characteristic analysis etc.
 - 🔥 Have extreme interest on astronomy and astro-physics, deep space learning.
-- 🌱 I’m currently studying Computer Science and Engineering.
+- 🌱 I’m currently studying Computer Science and Engineering at Leading University, Bangladesh.
 - 👋 I do have average knowledge on C, C++, Java and Python.
 - 💞️ Interested in learning about networking, wordpress, game development, chaos theory, action and cosequences etc.
 - 🎉 Really want to implement the chaos theory into code format.
