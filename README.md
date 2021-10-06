@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @TusharDey99
-- 👀 I’m interested in creating, problem solving, brainstorming, movies, shows, anime, manga and books.
+- 👋 Hi, I’m Tushar Dey
+- 🦼 I find amusement in creating, problem solving, brainstorming, movies, shows, anime, manga and books, writting, technical analysis, characteristic analysis etc.
 - 🌱 I’m currently studying Computer Science and Engineering.
-- 💞️ Interested in learning about networking, wordpress, game development etc.
+- 👋 I do have average knowledge on C, C++, Java and Python.
+- 💞️ Interested in learning about networking, wordpress, game development, chaos theory, action and cosequences etc.
 - 📫 Reach me via tusardey77@gmail.com
 
 <!---
